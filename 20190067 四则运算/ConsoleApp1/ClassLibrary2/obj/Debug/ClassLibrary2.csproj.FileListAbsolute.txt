@@ -1,0 +1,13 @@
+E:\huangmeixi\四则\ConsoleApp1\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+E:\huangmeixi\四则\ConsoleApp1\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+E:\huangmeixi\四则\ConsoleApp1\ClassLibrary2\obj\Debug\ClassLibrary2.csprojAssemblyReference.cache
+E:\huangmeixi\四则\ConsoleApp1\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+E:\huangmeixi\四则\ConsoleApp1\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+E:\huangmeixi\四则\ConsoleApp1\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+D:\2019yj\1922yj\20190067 四则运算\ConsoleApp1\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+D:\2019yj\1922yj\20190067 四则运算\ConsoleApp1\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+D:\2019yj\1922yj\20190067 四则运算\ConsoleApp1\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+D:\2019yj\1922yj\20190067 四则运算\ConsoleApp1\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+D:\2019yj\1922yj\20190067 四则运算\ConsoleApp1\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+D:\2019yj\1922yj\20190067 四则运算\ConsoleApp1\ClassLibrary2\bin\Debug\ClassLibrary2.dll.CodeAnalysisLog.xml
+D:\2019yj\1922yj\20190067 四则运算\ConsoleApp1\ClassLibrary2\bin\Debug\ClassLibrary2.dll.lastcodeanalysissucceeded
